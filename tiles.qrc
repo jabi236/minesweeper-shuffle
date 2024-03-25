@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="tile_0.png">../minesweeper/tiles/tile_0.png</file>
+        <file alias="tile_1.png">../minesweeper/tiles/tile_1.png</file>
+        <file alias="tile_2.png">../minesweeper/tiles/tile_2.png</file>
+        <file alias="tile_3.png">../minesweeper/tiles/tile_3.png</file>
+        <file alias="tile_4.png">../minesweeper/tiles/tile_4.png</file>
+        <file alias="tile_5.png">../minesweeper/tiles/tile_5.png</file>
+        <file alias="tile_6.png">../minesweeper/tiles/tile_6.png</file>
+        <file alias="tile_7.png">../minesweeper/tiles/tile_7.png</file>
+        <file alias="tile_8.png">../minesweeper/tiles/tile_8.png</file>
+        <file alias="tile_clock.png">../minesweeper/tiles/tile_clock.png</file>
+        <file alias="tile_flag.png">../minesweeper/tiles/tile_flag.png</file>
+        <file alias="tile_mine.png">../minesweeper/tiles/tile_mine.png</file>
+        <file alias="tile_mine_hit.png">../minesweeper/tiles/tile_mine_hit.png</file>
+        <file alias="tile_unexplored.png">../minesweeper/tiles/tile_unexplored.png</file>
+    </qresource>
+</RCC>
