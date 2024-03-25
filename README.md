@@ -1,0 +1,1 @@
+In This project I designed a C++ program, with a Qt graphical interface, to allow a user to play minesweeper with a twist. The twist was there would also be a shuffle button that allowed the user to shuffle all the tiles in the game if they got stuck. The number of bombs around tiles would also update upon shuffle
